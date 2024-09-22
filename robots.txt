@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://megatext.pro/sitemap.xml
